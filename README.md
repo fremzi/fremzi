@@ -2,7 +2,7 @@
 - 👀 I’m interested in kpop and arts.
 - 🌱 I’m currently learning sculpture
 - 💞️ I’m looking to collaborate on something(?
-- 📫 How to reach me ...
+- 📫 How to reach me @ifremiotl
 
 <!---
 fremzi/fremzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
